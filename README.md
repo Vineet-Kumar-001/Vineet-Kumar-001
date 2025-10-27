@@ -1,5 +1,7 @@
 ## Intro:
+<p align="centre">
 <img src= "https://github.com/Vineet-Kumar-001/Vineet-Kumar-001/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp%20(1).gif" alt="Gif"/>
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vineet-kumar-182a35323) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vineetkumaar8435) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vineetkumarjee06@gmail.com) 
