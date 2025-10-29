@@ -12,7 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=vineet-kumar-001&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="600" />
   <img src="https://github.com/Vineet-Kumar-001/Vineet-Kumar-001/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp%20(2).gif" 
      alt="githubg" 
-     align="centre" 
+     align="right" 
      width="250" />
 </p>  
 <p>  
