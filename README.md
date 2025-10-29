@@ -16,7 +16,7 @@
      width="250" style="border: 2px solid #ff005c; border-radius: 10px; padding: 2px;" />
 </p>  
 <p>  
-  <img src="https://nirzak-streak-stats.vercel.app/?user=vineet-kumar-001&theme=radical&hide_border=false" alt="GitHub Streak Stats" align="right" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=vineet-kumar-001&theme=radical&hide_border=false" alt="GitHub Streak Stats" align="left" />
 </p>
 
 <p align="left">
