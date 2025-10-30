@@ -17,7 +17,7 @@
 </p>  
 <p style="margin-bottom: 50px;">  
   <img src="https://nirzak-streak-stats.vercel.app/?user=vineet-kumar-001&theme=radical&hide_border=false" alt="GitHub Streak Stats" align="right" width ="590" />
-  <img src="https://github.com/Vineet-Kumar-001/Vineet-Kumar-001/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp%20(3).gif" alt="git_four" align= "left" width="270" />
+  <img src="https://github.com/Vineet-Kumar-001/Vineet-Kumar-001/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp%20(3).gif" alt="git_four" align= "left" width="250" />
 </p>
 
 <p align="left" style="margin-bottom: 50px;" >
