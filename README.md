@@ -20,8 +20,8 @@
   <img src="https://github.com/Vineet-Kumar-001/Vineet-Kumar-001/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp%20(3).gif" alt="git_four" align= "left" width="230" />
 </p>
 
-<p align="left" style="margin-bottom: 50px;" >
-  <img src="https://github-contributor-stats.vercel.app/api?username=vineet-kumar-001&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" /> 
+<p>
+  <img src="https://github-contributor-stats.vercel.app/api?username=vineet-kumar-001&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" align="left" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineet-kumar-001&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" align="right" />
 </p>
 
