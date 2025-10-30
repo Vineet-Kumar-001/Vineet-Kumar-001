@@ -15,13 +15,13 @@
      align="right" 
      width="250" style="border: 2px solid #ff005c; border-radius: 10px; padding: 2px;" />
 </p>  
-<p>  
-  <img src="https://nirzak-streak-stats.vercel.app/?user=vineet-kumar-001&theme=radical&hide_border=false" alt="GitHub Streak Stats" align="right" width ="500" />
-  <img src="https://github.com/Vineet-Kumar-001/Vineet-Kumar-001/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp%20(3).gif" alt="git_four" align= "left" width="250" />
+<p style="margin-bottom: 50px;">  
+  <img src="https://nirzak-streak-stats.vercel.app/?user=vineet-kumar-001&theme=radical&hide_border=false" alt="GitHub Streak Stats" align="right" width ="680" />
+  <img src="https://github.com/Vineet-Kumar-001/Vineet-Kumar-001/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp%20(3).gif" alt="git_four" align= "left" width="270" />
 </p>
 
-<p align="left">
-  <img src="https://github-contributor-stats.vercel.app/api?username=vineet-kumar-001&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" />
+<p align="left" style="margin-bottom: 50px;" >
+  <img src="https://github-contributor-stats.vercel.app/api?username=vineet-kumar-001&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineet-kumar-001&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" align="right" />
 </p>
 
