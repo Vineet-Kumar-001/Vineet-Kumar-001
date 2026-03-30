@@ -36,8 +36,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vineet-kumar-001&icon=0&color=1)](https://visitcount.itsvg.in)
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
-</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
