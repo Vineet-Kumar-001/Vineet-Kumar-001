@@ -10,7 +10,9 @@
 
 # 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vineet-Kumar-001&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="580" />
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vineet-Kumar-001&theme=radical"/>
+</div>
    
 </p>  
 <p >  
